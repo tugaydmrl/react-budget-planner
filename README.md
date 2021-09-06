@@ -1,5 +1,5 @@
 # React Budget Planner
-## I build this web app with React, Bootstrap, Context API.
+## I built this web app with React, Bootstrap, Context API.
 On this site, you can plan your budget, expenses.
 
 ### To run this project on your local 
